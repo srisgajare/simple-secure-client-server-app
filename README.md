@@ -6,6 +6,8 @@ A simple client server application to demostrate the working of various cryptogr
 3. Digital signature - RSA algorithm
 4. Hash function - SHA256
 
+All the above functions are implemented using Python built in libraries and functions.
+
 ## What does the application do?
 
 - The application lets the user schedule COVID-19 test appointment.
