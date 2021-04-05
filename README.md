@@ -1,11 +1,12 @@
 # Simple secure client server application
 
-## What does the application do?
 A simple client server application to demostrate the working of various cryptographic algorithms namely,
 1. Public key cryptography - RSA algorithm
 2. Private key cryptography - AES algorithm in CTR mode
 3. Digital signature - RSA algorithm
 4. Hash function - SHA256
+
+## What does the application do?
 
 - The application lets the user schedule COVID-19 test appointment.
 - The application has an existing user by default. New users can register and book an appointment too.
